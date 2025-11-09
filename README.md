@@ -13,20 +13,20 @@ This is a full-stack AI chatbot application powered by OpenAI and LangChain for 
 ## 📸 Screenshots
 
 ### 🚨 Alert Page
-![Ask AI](./screenshots/Screenshot%202025-07-21%20115856.png)
+![Ask AI](./Screenshot%202025-07-21%20115856.png)
 
 
 ###  🧠 Ask AI Page
-![Enquiry](./screenshots/Screenshot%202025-07-21%20120245.png)
+![Enquiry](./Screenshot%202025-07-21%20120245.png)
 
 ### 📩 UI PAGE
-![Alert](./screenshots/Screenshot%202025-07-21%20122004.png)
+![Alert](./Screenshot%202025-07-21%20122004.png)
 
 ### 📋 Flask Server Running
-![Flask Server](./screenshots/Screenshot%202025-07-21%20122015.png)
+![Flask Server](./Screenshot%202025-07-21%20122015.png)
 
 ## 📁 Project Structure
-![Enquiry](./screenshots/Screenshot%202025-07-21%20123152.png)
+![Enquiry](./Screenshot%202025-07-21%20123152.png)
 
 
 
